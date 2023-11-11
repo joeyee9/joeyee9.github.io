@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia");
+
+
+body{margin:50px}
+
+h1{
+	color:#9E7BB5;
+	font-family:"Sofia"
+}
+
+
+.intro{text-align:center}
+
+.fav{color:#38ACEC}
+.social{color:#38ACEC}
+
+.dog{color:#6495ED}
